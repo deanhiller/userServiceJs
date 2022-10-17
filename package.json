@@ -2,9 +2,9 @@
   "name": "userservice",
   "version": "1.0.0",
   "description": "typescript interview",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "test",
+    "test": "jest --coverage",
     "build": "tsc"
   },
   "repository": {
@@ -26,6 +26,6 @@
     "typescript": "4.8.4"
   },
   "dependencies": {
-     "tslib": "2.4"
+     "tslib": "~2.4"
   }
 }
