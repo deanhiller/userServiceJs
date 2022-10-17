@@ -1,0 +1,23 @@
+{
+  "name": "userservice",
+  "version": "1.0.0",
+  "description": "typescript interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deanhiller/userServiceJs.git"
+  },
+  "author": "Dean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanhiller/userServiceJs/issues"
+  },
+  "homepage": "https://github.com/deanhiller/userServiceJs#readme",
+  "devDependencies": {
+    "ts-generic-collections-linq": "^1.0.7",
+    "typescript": "4.8.4"
+  }
+}
