@@ -1,7 +1,7 @@
 import UserService from "../api/UserService";
 import UserServiceFactory from "../api/UserServiceFactory";
 
-let userSvc: UserService;
+let userSvc: UserService = null;
 
 const id1 = 4;
 const id2 = 5;
